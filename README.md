@@ -1,4 +1,4 @@
-# [Material Dashboard Next.js NestJS](#)
+# [Material Dashboard - NestJS - Next.js](#)
 <!-- (https://www.AUTO.com/live/nest-next-material-app) -->
 
 Full-stack platform, with a **Node.js - NestJS** Backend API, and an **React - Next.js - Material UI** Frontend Dashboard app, managing data within a **Mongo DB** database (and others). Comes with a flexible architecture across a variety of devices, operating systems, and databases. 

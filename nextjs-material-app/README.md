@@ -7,8 +7,8 @@ NextJS Material Dashboard is a Material-UI, NextJS and React Admin with a fresh,
 
 Quick start options:
 
-- `npm i nextjs-material-dashboard`
-- Clone the repo: `git clone https://github.com/repo/nextjs-material-dashboard.git`.
-- [Download from Github](https://github.com/repo/nextjs-material-dashboard/archive/master.zip).
-- [Download from AUTO](https://www.AUTO.com/product/nextjs-material-dashboard).
+- Clone the repo: `git clone https://github.com/Amo-Addai/next-next-material-app.git`.
+- Go into React app directory: `cd next-next-material-app/nextjs-material-app`
+- Install Dependencies: `npm install` or `yarn`
+- Start the app: `npm run start` or `yarn start`
 
