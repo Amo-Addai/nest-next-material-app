@@ -57,6 +57,6 @@ describe('UsersService', () => {
   it('should remove an existing user', () => {
     const id = 1;
     const user = service.remove(id);
-    expect(user).toBeUndefined(); //
+    expect(user).toBeUndefined();
   });
 });

@@ -5,7 +5,6 @@ import { Sample as SampleGQLCode } from '../../../api/samples/gql-code/entities/
 import { Sample as SampleGQLSchema } from '../../../api/samples/gql-schema/entities/sample.entity';
 import { Sample as SampleMicroService } from '../../../api/samples/microservice/entities/sample.entity';
 import { Sample as SampleWebSocket } from '../../../api/samples/websocket/entities/sample.entity';
-//
 import { User as UserEntity } from '../../../api/users/entities/user.entity';
 
 // All Sequelize Models
@@ -24,7 +23,6 @@ export const entities = {
   SampleGQLSchema,
   SampleMicroService,
   SampleWebSocket,
-  //
   UserEntity,
 }; // typeorm
 
