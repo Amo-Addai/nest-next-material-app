@@ -42,6 +42,7 @@ package-lock.json
 *.swo
 
 # OS files
+.DS_STORE
 .DS_Store
 Thumbs.db
 
