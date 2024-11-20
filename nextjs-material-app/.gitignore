@@ -37,6 +37,7 @@ package-lock.json
 # IDE and editor directories
 .idea/
 .vscode/
+.idea/
 *.sublime-workspace
 *.swp
 *.swo
